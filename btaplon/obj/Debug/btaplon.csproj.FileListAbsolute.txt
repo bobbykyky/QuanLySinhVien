@@ -1,0 +1,12 @@
+D:\winfrom\btaplon\bin\Debug\btaplon.exe.config
+D:\winfrom\btaplon\bin\Debug\btaplon.exe
+D:\winfrom\btaplon\bin\Debug\btaplon.pdb
+D:\winfrom\btaplon\obj\Debug\btaplon.csproj.AssemblyReference.cache
+D:\winfrom\btaplon\obj\Debug\btaplon.Form1.resources
+D:\winfrom\btaplon\obj\Debug\btaplon.Form2.resources
+D:\winfrom\btaplon\obj\Debug\btaplon.Form3.resources
+D:\winfrom\btaplon\obj\Debug\btaplon.Properties.Resources.resources
+D:\winfrom\btaplon\obj\Debug\btaplon.csproj.GenerateResource.cache
+D:\winfrom\btaplon\obj\Debug\btaplon.csproj.CoreCompileInputs.cache
+D:\winfrom\btaplon\obj\Debug\btaplon.exe
+D:\winfrom\btaplon\obj\Debug\btaplon.pdb
